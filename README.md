@@ -1,2 +1,3 @@
-# Data-Mining-Project
-My submissions for Data Mining and Business Intelligence class, taught in Python.
+# Data Mining and Business Intelligence
+
+> My submissions for Data Mining and Business Intelligence class, taught in Python.
